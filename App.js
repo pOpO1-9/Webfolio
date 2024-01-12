@@ -133,7 +133,7 @@ function Skills() {
   const categorizedSkills = {
     'Programming Languages': ['JavaScript (ES6+)', 'C++', 'C#', 'Python'],
     'Frameworks & Libraries': ['React'],
-    'Game Development': ['Unreal Engine','Blueprint Visual Scripting', 'Unity'], //{ 'Game Engine': ['Unreal Engine', 'Unity'],'Tools': ['Blueprint Visual Scripting'] },
+    'Game Development': ['Unreal Engine','Blueprint Visual Scripting', 'Unity'],
     
     'Databases': ['MongoDB', 'MySQL'],
     'Operating Systems': ['Windows', 'Linux'],
@@ -391,26 +391,6 @@ function AboutMe() {
     </Grid>
   );
 }
-
-//function AboutMe() {
-  // Sample data for milestones or events
-  //const milestones = [
-   // {
-     // title: 'Education',
-     // date: 'Computer Science - Computer Graphics and Animation Bachelor + Masters in IT and Data Management',
-     // description: `As a Computer Science - Computer Graphics and Animation bachelor holder with a masters in IT and data management, 
-      //I have a profound love for technology. Staying updated with the latest tech news is my passion. I enjoy exploring and developing 
-      //experiences across various domains, particularly in the game industry, which has been my primary focus. However, my versatility shines through 
-      //as I've contributed to projects beyond the gaming sphere, such as my role as an Unreal Engine developer at SAP, which was an immensely enriching experience. 
-      //I am adept in coding with Python and C++, languages that I find both fascinating and impactful.`,
-   // },
-    //{
-     // title: 'Completed React Certification',
-      //date: 'July 2019',
-      //description: 'Achieved React Developer Certification from XYZ Academy.',
-    //},
-    // Add more milestones or events as needed
-  //];
 
 
 function Intro() {
